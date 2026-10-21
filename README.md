@@ -1,0 +1,2 @@
+# Curs_AI
+Exercise
